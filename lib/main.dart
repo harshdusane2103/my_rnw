@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
               child: Text.rich(TextSpan(
                 children: [
                   TextSpan(text: 'Red & White',style:TextStyle(color: Colors.red,height:0.8,fontWeight:FontWeight.bold,fontSize:54,decoration:TextDecoration.underline,decorationColor:Colors.red,)),
-                  TextSpan(text: '\n   Multimedia Education  \n',style:TextStyle(color: Colors.red,fontWeight:FontWeight.normal,fontSize:24)),
+                  TextSpan(text: '   Multimedia Education\n',style:TextStyle(color: Colors.red,fontWeight:FontWeight.normal,fontSize:24)),
                   TextSpan(text: 'Shaping "skills" for Scaling higher...!!! ',style:TextStyle(color: Colors.red,fontWeight:FontWeight.normal,fontSize:18)),
                 ]
               )),
