@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <img src = "https://github.com/harshdusane2103/my_rnw/blob/master/Screenshot_20240318_223926-portrait.png" width=22% height=35%>
+  <img src = "https://github.com/harshdusane2103/my_rnw/blob/master/Screenshot_20240318_223926-portrait.png" width=22% height=35% align=center>
 
 </p>
